@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.demo.iml" filepath="$PROJECT_DIR$/com.demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-parent/demo-common-db/demo-common-db.iml" filepath="$PROJECT_DIR$/demo-parent/demo-common-db/demo-common-db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-parent/demo-eureka/demo-eureka.iml" filepath="$PROJECT_DIR$/demo-parent/demo-eureka/demo-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-parent/demo-gateway/demo-gateway.iml" filepath="$PROJECT_DIR$/demo-parent/demo-gateway/demo-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-parent/demo-parent.iml" filepath="$PROJECT_DIR$/demo-parent/demo-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-parent/demo-service/demo-service.iml" filepath="$PROJECT_DIR$/demo-parent/demo-service/demo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-parent/demo-service-api/demo-service-api.iml" filepath="$PROJECT_DIR$/demo-parent/demo-service-api/demo-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-parent/demo-web/demo-web.iml" filepath="$PROJECT_DIR$/demo-parent/demo-web/demo-web.iml" />
+    </modules>
+  </component>
+</project>
